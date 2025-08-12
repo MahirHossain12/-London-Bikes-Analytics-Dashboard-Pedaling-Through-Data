@@ -111,7 +111,11 @@ The Tableau dashboard includes:
 
 ## 🎨 Visualization Samples
 
-*[Add screenshots of your Tableau dashboard here]*
+<img width="1706" height="959" alt="Image" src="https://github.com/user-attachments/assets/f2e6d1ba-886d-468e-8bea-c6429be0bb32" />
+
+<img width="1277" height="722" alt="Image" src="https://github.com/user-attachments/assets/e8978c0c-1b02-483a-94a3-cb96a4e6ae61" />
+
+<img width="1918" height="908" alt="Image" src="https://github.com/user-attachments/assets/64cc0229-e5e2-4383-92e0-3c1a084a9fad" />
 
 ## 🤝 Contributing
 

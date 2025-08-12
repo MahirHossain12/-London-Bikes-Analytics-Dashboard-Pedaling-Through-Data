@@ -2,8 +2,8 @@
 
 [![Python](https://img.shields.io/badge/python-v3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Pandas](https://img.shields.io/badge/pandas-1.5.0+-green.svg)](https://pandas.pydata.org/)
-[![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange.svg)]([[https://www.tableau.com/](https://prod-apsoutheast-b.online.tableau.com/t/mahihossain114-e534c1701f/views/finallondon/Dashboard?:origin=card_share_link&:embed=n)](https://prod-apsoutheast-b.online.tableau.com/t/mahihossain114-e534c1701f/views/finallondon/Dashboard).
-[![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-20BEFF.svg)]([https://www.kaggle.com/](https://www.kaggle.com/datasets/kalacheva/london-bike-share-usage-dataset)
+[![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange.svg)](https://prod-apsoutheast-b.online.tableau.com/t/mahihossain114-e534c1701f/views/finallondon/Dashboard).
+[![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-20BEFF.svg)](https://www.kaggle.com/datasets/kalacheva/london-bike-share-usage-dataset)
 
 > **Transforming London's bike-sharing data into actionable insights through interactive visualizations**
 

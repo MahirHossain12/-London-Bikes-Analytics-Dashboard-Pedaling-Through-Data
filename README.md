@@ -133,9 +133,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Your Name** - [your.email@example.com](mailto:your.email@example.com)
+**Your Name** - [mahihossain114@gmail.com](mailto:mahihossain114@gmail.com)
 
-Project Link: [https://github.com/yourusername/london-bikes-analytics](https://github.com/yourusername/london-bikes-analytics)
+Project Link: [[https://github.com/MahirHossain12/-London-Bikes-Analytics-Dashboard-Pedaling-Through-Data](https://github.com/MahirHossain12/-London-Bikes-Analytics-Dashboard-Pedaling-Through-Data)]
 
 ---
 ⭐ **Star this repo if you found it helpful!** ⭐
